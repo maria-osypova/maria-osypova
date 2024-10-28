@@ -13,6 +13,10 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./JavaScript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/maria-osypova/maria-osypova/raw/main/JavaScript.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Go
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+    
