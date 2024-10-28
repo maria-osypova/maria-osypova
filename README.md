@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Mariia 👩🏼 : a Product Manager, a soon-to-be Web Developer, and an ex-Investment Banker.
+## Hi there 👋 
+## I'm Mariia 👩🏼 : a Product Manager, a soon-to-be Web Developer, and an ex-Investment Banker.
 
 - 🔬 I’m currently learning about **Full-stack Development, Machine Learning, and advanced Product Management**.</b>
 - 👩🏼‍💻 I’m currently working as a **Freelance Product Manager** focusing on Discovery&Validation phase.
